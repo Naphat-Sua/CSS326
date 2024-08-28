@@ -1,0 +1,14 @@
+/Users/Naphat/Documents/C#/QS2/bin/Debug/net8.0/QS2
+/Users/Naphat/Documents/C#/QS2/bin/Debug/net8.0/QS2.deps.json
+/Users/Naphat/Documents/C#/QS2/bin/Debug/net8.0/QS2.runtimeconfig.json
+/Users/Naphat/Documents/C#/QS2/bin/Debug/net8.0/QS2.dll
+/Users/Naphat/Documents/C#/QS2/bin/Debug/net8.0/QS2.pdb
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/QS2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/QS2.AssemblyInfoInputs.cache
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/QS2.AssemblyInfo.cs
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/QS2.csproj.CoreCompileInputs.cache
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/QS2.dll
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/refint/QS2.dll
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/QS2.pdb
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/QS2.genruntimeconfig.cache
+/Users/Naphat/Documents/C#/QS2/obj/Debug/net8.0/ref/QS2.dll
