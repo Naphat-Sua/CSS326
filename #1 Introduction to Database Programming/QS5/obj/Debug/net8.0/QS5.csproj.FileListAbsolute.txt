@@ -1,0 +1,14 @@
+/Users/Naphat/Documents/C#/QS5/bin/Debug/net8.0/QS5
+/Users/Naphat/Documents/C#/QS5/bin/Debug/net8.0/QS5.deps.json
+/Users/Naphat/Documents/C#/QS5/bin/Debug/net8.0/QS5.runtimeconfig.json
+/Users/Naphat/Documents/C#/QS5/bin/Debug/net8.0/QS5.dll
+/Users/Naphat/Documents/C#/QS5/bin/Debug/net8.0/QS5.pdb
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/QS5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/QS5.AssemblyInfoInputs.cache
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/QS5.AssemblyInfo.cs
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/QS5.csproj.CoreCompileInputs.cache
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/QS5.dll
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/refint/QS5.dll
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/QS5.pdb
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/QS5.genruntimeconfig.cache
+/Users/Naphat/Documents/C#/QS5/obj/Debug/net8.0/ref/QS5.dll
